@@ -1,2 +1,1 @@
-# Robot-car
-Robot car
+The other content, alongside this piece of text, is inspired by the creation of small automaticaly-able to drive itself car. The car has 4 motors, a sensor, batteries( a bit obvious), and a solid plastic base to hold it all together. The motors and the sensor are connected to an Arduino Nano, which stores the code. The object of the car is to be able to independently avoid obstacles infront of it by steering away. 
